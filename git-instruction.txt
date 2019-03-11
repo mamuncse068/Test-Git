@@ -1,0 +1,35 @@
+https://github.com/mamuncse068/Test-Git
+
+git config --global user.name "mamuncse068"
+
+git config --global user.email "mamuncse068@yahoo.com"
+
+git clone https://github.com/mamuncse068/Test-Git.git
+
+git add test.txt
+or
+git add -A
+or
+git add -u
+
+git status
+
+git commit -m "committed message-First git commit" test.txt
+
+git push -u origin master
+
+git log
+
+git branch new_branch_mog_bazar
+
+git checkout new_branch_mog_bazar
+
+git cheackout -b new_branch_mog_bazar
+
+git checkout master
+
+git ls-files
+
+git merge azimpur_new_branch
+
+get out from vim-> first Esc then press ":wq!" without ""
